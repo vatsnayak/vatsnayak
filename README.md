@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vatsnayak
-- 👀 I’m interested in Data Science, Python, Statistics
-- 🌱 I’m currently learning Machine Learning, Deep Learning
+- 👋 Hi, I’m Vatsalya NAYAK
+- 👀 I’m interested in Cloud Data Engineer and Data Science 
+- 🌱 I’m currently learning AWS Cloud & Data Engineering core concepts
 - 📫 How to reach me nayakvats107@gmail.com
 
 <!---
